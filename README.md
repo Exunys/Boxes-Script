@@ -11,12 +11,12 @@ You can also edit different settings about the lines, such as color, thickness, 
 
 ## Script
 
-Load the script by using the code below or by copying it from [here](https://github.com/UbicastDev/Boxes-Script/blob/main/Boxes%20Script).
+Load the script by using the code below or by copying it from [here](https://github.com/Exunys/Boxes-Script/blob/main/Boxes%20Script.lua).
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/3CpReuYn"))()
 ```
 
 ## Contact information
 
-- Discord : [Aleksandar](https://discord.com/users/611111398818316309)
-- ROBLOX : [Ubicast](https://www.roblox.com/users/330279990/profile)
+- Discord : [Exunys](https://discord.com/users/611111398818316309)
+- ROBLOX : [Exunys](https://www.roblox.com/users/330279990/profile)
